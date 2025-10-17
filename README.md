@@ -1,6 +1,5 @@
-<!-- Header with gradient banner -->
 <p align="center">
-  <img src="https://github.com/hsinaa/hsinaa/blob/main/assets/banner.png" alt="Banner with purple hues" width="100%">
+  <img src="https://i.ibb.co/ZKz9K3C/purple-cyber-banner.jpg" alt="Cyber Purple Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hsinaa</h1>
