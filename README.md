@@ -4,8 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Hsinaa</h1>
-<h3 align="center">Cybersecurity & Cloud Enthusiast | DevSecOps | Infrastructure as Code</h3>
+<h3 align="center">DevSecOps & Cloud Entusiast | Infrastructure | CyberSecurity  </h3>
 
 ---
 
