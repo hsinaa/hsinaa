@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/8dqd8FW/purple-cloud-banner.jpg" alt="Purple Cloud Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/hsinaa/hsinaa/main/assets/banner.png" alt="Banner" width="100%">
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Hsinaa</h1>
