@@ -74,7 +74,7 @@ WireShark • Nmap • Autopsy • Volatily • FTK Imager • GNS3 • VMware E
 
 ### 🚀 Personal Projects
 
-#### 🌐 Automated Azure Network Dashboard
+#### 🌐 Automated AWS Application Deployment
 **July - August 2025**
 - Deployed a web application on AWS with high availability architecture
 - Configured EC2 instances for load balancers to ensure optimal performance and reliability
@@ -101,13 +101,13 @@ WireShark • Nmap • Autopsy • Volatily • FTK Imager • GNS3 • VMware E
 ### 📚 Academic Projects
 
 #### 🌐 Microservices Web Platform for Service Management at Sporting Events
-**November 2025 – Present**
+**November – December 2025**
 - Designed and developed a microservices-based web application to improve the experience for visitors and residents during sporting events (such as 4 Nations, World Cup)
 - Established a comprehensive DevSecOps pipeline to automate building, testing, security scanning, and continuous deployment
-- **Tools:** Java, Spring Boot, Docker, Jenkins, Kubernetes, ArgoCD
+- **Tools:** Java, Spring Boot, Docker, Jenkins, Kubernetes, ArgoCD, Git
 
 #### 🔒 Securing and Automating a Kubernetes Infrastructure
-**November 2025 – Present**
+**November – December 2025**
 - Designed, deployed, and secured a comprehensive automated Kubernetes infrastructure with integrated monitoring and security controls
 - **Tools:** Kubernetes, Terraform, Ansible, GitLab, ArgoCD, Falco, Prometheus, Loki, Grafana
 
