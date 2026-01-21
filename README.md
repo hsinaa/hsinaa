@@ -12,17 +12,18 @@
 ☁️ Passionate about **Cloud, DevSecOps, and Security Operations**  
 🔐 Skilled in designing **secure, scalable infrastructures** using **AWS**  
 ⚙️ Familiar with **Automation**, **Containerization**, and **CI/CD pipelines**  
-🚀 Looking for a **4–6 month internship** starting **January** to apply my skills and grow in **cloud-native and security-focused environments**
+🚀 Looking for a **4–6 month internship** starting **February** to apply my skills and grow in **cloud-native and security-focused environments**
 
 ---
 
 ### 💼 Professional Experience
 
-#### Cyber Security Intern – iSec Cloud Services
+#### Cyber Security Intern – Atlas Cloud Services
 **July - August 2025**
-- Implemented end-to-end encrypted OpenID OAuth automation and Ashwan data classification to streamline sensitive data detection and protection
-- Developed and deployed Data Loss Prevention (DLP) solution
-- **Tools:** OpenID, Docker, Python, Selenium
+
+**Project: Implementation of a Data Loss Prevention (DLP) solution**
+- Implemented and containerized OpenDLP with automation and AI-driven data classification to streamline sensitive data detection and protection
+- **Tools:** OpenDLP, Docker, Python, Selenium
 
 ---
 
@@ -30,37 +31,44 @@
 
 #### 💻 Scripting & Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=bash,python,java,cpp" />
 </p>
 
+**Languages:** Shell/bash, C/C++, Python, Java
+
 #### 🌐 Networking & Security
-- TCP/IP, Network Fundamentals, Linux/Windows Hardening  
-- Ethical Hacking, PKI, Digital Forensics, SIEM (Wazuh, ELK Stack)  
-- Threat Intelligence, Wireshark, Nmap, Metasploit, OpenSSL, Autopsy  
+- **Networking:** TCP/IP, Network basics
+- **System Administration:** Linux, Windows
+- **Cryptography:** Encryption, PKI, etc
+- **System Hardening & Security:** Windows AD, Linux
+- **Incident Management & Digital Forensics**  
 
 #### ☁️ Cloud & Virtualization
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,openstack,vmware" />
+  <img src="https://skillicons.dev/icons?i=aws,openstack" />
 </p>
 
-- VMware ESXi, OpenStack, Proxmox, Cloud Security
+**Platforms:** AWS, OpenStack
 
 #### ⚙️ DevOps & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,ansible,terraform,jenkins" />
 </p>
 
-- CI/CD, Infrastructure as Code, Monitoring (ELK, Wazuh), Packer, CloudFormation
+**Tools:** Git, GitHub, Docker, Kubernetes, Ansible, Terraform, Packer, Jenkins, ELK Stack, Wazuh
 
 #### 🔒 Security Tools
-Wireshark • Nmap • Metasploit • OpenSSL • Autopsy • Volatility • FTK Imager • GNS3 • TheHive • Cortex • MISP  
+WireShark • Nmap • Autopsy • Volatily • FTK Imager • GNS3 • VMware ESXi • Proxmox  
 
-#### 🧾 Certifications
-- (ISC)² **Certified in Cybersecurity – Candidate**  
-- **SOC1 – In Progress (TryHackMe)**  
-- **Nutanix Hybrid Cloud Fundamentals – In Progress**  
-- **DevSecOps – In Progress (TryHackMe)**
-- **TLS Fundamentals**
+#### 🧾 Certifications & Learning Paths
+- (ISC)² **CC Candidate**  
+- **TryHackMe | SOC1 – In Progress**  
+- **Nutanix Hybrid Cloud Fundamentals – In Progress**
+
+#### 🗣️ Languages
+- **Anglais:** Level A3 - 2022
+- **Français:** Level B1 - 2018
+- **Standard Arabic:** Advanced
 
 ---
 
@@ -83,40 +91,39 @@ Wireshark • Nmap • Metasploit • OpenSSL • Autopsy • Volatility • FTK
 - Deployed and tested core OpenStack services (Nova, Neutron, Glance, etc.)
 - Created virtual machines and simulated cloud computing application scenarios
 
-#### 🔐 SecureOps Lab: A Personal Security Lab
+#### 🛡️ SecureOps Lab: A Personal Security Lab
 **January - February 2025**
-- Established a cybersecurity home lab with simulate for AD administration, vulnerability exploitation, and SIEM practice
-- **Tools:** pfSense, Firewall, Active Directory, Splunk, Tsurugi Linux
+- Built a personal cybersecurity home lab with mini-labs for AD administration, vulnerability exploitation, and SIEM practice
+- **Tools:** pfSense Firewall, Active Directory, Splunk, Tsurugi Linux
 
 ---
 
 ### 📚 Academic Projects
 
-#### 🌐 Microservices Web Platform for Service Reservation & Booking Portal
+#### 🌐 Microservices Web Platform for Service Management at Sporting Events
 **November 2025 – Present**
-- Designed and developed a microservices-based web application to improve the experience for visitors and service providers across 4 Nations World Cup host cities
-- **Tools:** Java, Spring Boot, Docker, Jenkins, Kubernetes, Angular
-- Implemented DevSecOps pipeline to automate building, testing, security scanning, and continuous deployment
+- Designed and developed a microservices-based web application to improve the experience for visitors and residents during sporting events (such as 4 Nations, World Cup)
+- Established a comprehensive DevSecOps pipeline to automate building, testing, security scanning, and continuous deployment
+- **Tools:** Java, Spring Boot, Docker, Jenkins, Kubernetes, ArgoCD
 
 #### 🔒 Securing and Automating a Kubernetes Infrastructure
 **November 2025 – Present**
 - Designed, deployed, and secured a comprehensive automated Kubernetes infrastructure with integrated monitoring and security controls
 - **Tools:** Kubernetes, Terraform, Ansible, GitLab, ArgoCD, Falco, Prometheus, Loki, Grafana
 
-#### 🔐 Cloud-Native SIEM with Threat Intelligence Integration
+#### 🔐 Deployment and Automation of a Cloud-Native SIEM Solution with Threat Intelligence Integration
 **February - May 2025**
-- Designed and deployed a serverless SIEM solution on AWS to detect, analyze, and automate threat detection and automated incident response
-- **Tools:** GuardDuty, TheHive, Cortex, MISP, Kibana, Eventbridge, Lambda, S3, SQS, Python, Docker Compose
+- Designed and deployed a cloud-native SIEM architecture on AWS for proactive threat detection, correlation, and automated incident response
+- **Tools:** GuardDuty, TheHive, Cortex, MISP, Kibana, EventBridge, Lambda, S3, SQS, Python, Docker Compose
 
-#### 🖥️ VMware ESXi 7.0 Deployment and Configuration
+#### 🖥️ Deployment and Configuration of VMware ESXi 7.0
 **February – March 2025**
-- Deployed a VMware ESXi 7.0 cluster with vCenter Appliance (VCSA), configured advanced services, network infrastructure, and storage to ensure seamless and reliable virtualization
-- **Tools:** VMware ESXi 7.0, vCSA, Citrix, Salt, pfTP
+- Deployed a VMware ESXi 7.0 cluster with vCenter Server Appliance (VCSA), configured essential services, network infrastructure, and storage to ensure seamless and reliable virtualization
+- **Tools:** VMware ESXi 7.0, VCSA, Apache, SSH, FTP
 
-#### 🛡️ Hardened Host: Linux OS Hardé
+#### 🛡️ Hardened Host: Linux OS HaaC
 **November - January 2025**
-- Applied CIS set of scripts designed to enhance the security of various components in Linux systems
-- Following the best practices recommended by ANSSI against Menaces de la Sécurité des Systèmes d'Information
+- HardenedHost is a set of scripts designed to enhance the security of various components in Linux systems, following the best practices recommended by ANSSI (Agence Nationale de la Sécurité des Systèmes d'Information)
 
 ---
 
@@ -125,8 +132,22 @@ Wireshark • Nmap • Metasploit • OpenSSL • Autopsy • Volatility • FTK
 **National School of Applied Sciences Marrakech** | 2021 – Present  
 *Master's in Cyber Defense & Embedded Telecommunications Systems Engineering*
 
-**High School Oum Keltoum Biba-Elkelaa** | 2018 - 2021  
-*Mathematics Sciences-Baccalaureate*
+**High School Groupe Scolaire la Résidence** | 2018 - 2021  
+*Mathematics Science Baccalaureate*
+
+---
+
+### 🌟 Extracurricular Activities
+
+**JLM : Jeunes Leaders Marocains**
+- Member of the Communication & Design Cell
+
+**SelfDev**
+- Member of the Communication & Design Cell
+
+**GCDSTE Secure Tech ENSA Marrakech**
+- Former Head of the Communication Cell
+- Member of the Training Cell
 
 ---
 
